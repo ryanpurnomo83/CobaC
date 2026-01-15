@@ -6,7 +6,7 @@ int main() {
     int x = 10;
     int y = 5;
 
-    printf("Hasilnya adalah :");
+    printf("Berikut adalah hasil dari fungsi rekursif :");
     recursive(x, y);
     return 0;
 }
